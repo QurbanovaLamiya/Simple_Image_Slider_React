@@ -1,0 +1,44 @@
+const images = [
+  {
+    image:
+      "https://i.pinimg.com/236x/41/c2/cd/41c2cd9c78c79abd960465e4839e3926.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/c1/8d/09/c18d09cfbcfa5140cd946f581d260293.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/4c/f4/89/4cf48999698ad07f2388801b3e8d9467.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/af/e7/e1/afe7e162f7b377440ddc4c9751ab884c.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/66/78/4c/66784c05a09e33d1953a1b3a993e3016.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/3e/a9/ba/3ea9ba9e84ab6808a394b6aa165c1673.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/41/99/5c/41995ce925ecc8657aa5abf815155c7a.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/e2/76/39/e276395b56653bcd2de404b00ef1e3a7.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/21/f9/8b/21f98bb955af7b9e9f34fc8aba6c2aa1.jpg",
+  },
+  {
+    image:
+      "https://i.pinimg.com/236x/78/e0/66/78e066e2aa8ef3c20b310d99e718145c.jpg",
+  },
+];
+
+export default images;

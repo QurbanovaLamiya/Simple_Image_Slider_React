@@ -1,0 +1,13 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid #1d7e5a;
+}
+h1 {
+  color: #1d7e5a;
+  margin-bottom: 50px;
+}
